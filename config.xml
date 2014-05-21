@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.moonconsulting.twitter"
+    version   = "0.1.0">
+
+<name>Twitter for Twitter Haters</name>
+
+<description>
+A simple application to pull legitimate Twitter news feeds, organized by category.  
+</description>
+
+<author href="http://www.moonconsulting.com" email="dmoon@moonconsulting.com">
+Debbie Moon
+</author>
+
+<icon src="icon.png" />
+<access origin="*" />
+
+</widget>
