@@ -15,6 +15,15 @@ Debbie Moon
 </author>
 
 <icon src="icon.png" />
+
+<!-- icons for android -->
+<icon src="ldpi.png" gap:platform="android" gap:density="ldpi" />
+<icon src="mdpi.png" gap:platform="android" gap:density="mdpi" />
+<icon src="hdpi.png" gap:platform="android" gap:density="hdpi" />
+<icon src="xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+<icon src="xxhdpi.png" gap:platform="android" gap:density="xxhdpi" />
+
+
 <access origin="*" />
 
 </widget>
